@@ -3,6 +3,10 @@
     "levels": {
         "easy": [
             {
+                "reference": "https://static.wikia.nocookie.net/fairlyoddparents/images/2/2c/New_Timmy_Stock.png/revision/latest?cb=20231114170622&path-prefix=en",
+                "type": "cartoon"
+            },
+            {
                 "reference": "https://mms.businesswire.com/media/20210202005179/en/856219/22/01_3D_Kirby_Normal_11.jpg",
                 "type": "cartoon"
             },
