@@ -3,6 +3,22 @@
     "levels": {
         "easy": [
             {
+                "reference": "https://easydrawingguides.com/wp-content/uploads/2022/03/how-to-draw-an-easy-cartoon-lion-featured-image-1200-886x1024.png",
+                "type": "animal"
+            },
+            {
+                "reference": "https://ramstudioscomics.com/wp-content/uploads/2022/05/drawing-the-torso-with-primitives-web-2.jpg",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Tommy_Pickles_in_Newer_Years.png/revision/latest?cb=20190607225227",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/fairlyoddparents/images/0/0f/Stock_Image_of_A.J.-infobox.png/revision/latest?cb=20231114235750&path-prefix=en",
+                "type": "cartoon"
+            },
+            {
                 "reference": "https://static.wikia.nocookie.net/fairlyoddparents/images/2/2c/New_Timmy_Stock.png/revision/latest?cb=20231114170622&path-prefix=en",
                 "type": "cartoon"
             },
@@ -167,6 +183,18 @@
             {
                 "reference": "https://static.wikia.nocookie.net/theproudfamily/images/b/be/SugaMama_LouderandProuder.png/revision/latest?cb=20220424020622",
                 "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/02/Dragon-Ball-Perfect-Cell.jpg",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://truespiritanimal.com/wp-content/uploads/2023/12/cheetah-symbolism-and-meaning-fe677781.webp",
+                "type": "animal"
             }
         ],
         "hard": [
@@ -213,6 +241,18 @@
             {
                 "reference": "https://images.unsplash.com/photo-1713824187767-d0b2da068a1a?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "type": "portrait"
+            },
+            {
+                "reference": "https://i.pinimg.com/736x/c1/46/06/c146069fbfccf66768702d118ae53637.jpg",
+                "type": "gesture"
+            },
+            {
+                "reference": "https://i.pinimg.com/1200x/67/1c/11/671c119a4ee8c906d99dc1c4c082b3e8.jpg",
+                "type": "gesture"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/teamfourstar/images/6/6f/Mirai_trunks.png/revision/latest?cb=20200802144815",
+                "type": "cartoon"
             }
         ]
     }
