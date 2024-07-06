@@ -3,6 +3,26 @@
     "levels": {
         "easy": [
             {
+                "reference": "https://www.theboondockspod.com/wp-content/uploads/2020/08/Lynxi_Full_569_v2.png",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/boondockstv/images/5/53/Huey_4.png/revision/latest?cb=20140510025658",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://i.pinimg.com/originals/f6/df/65/f6df65558d68f9656bd11403931a7949.png",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/9/d/0/9d0352a62fd6445d6e1e4f4fdb42a16428cfa936.jpeg",
+                "type": "anatomy"
+            },
+            {
                 "reference": "https://easydrawingguides.com/wp-content/uploads/2022/03/how-to-draw-an-easy-cartoon-lion-featured-image-1200-886x1024.png",
                 "type": "animal"
             },
@@ -104,6 +124,26 @@
             }
         ],
         "medium": [
+            {
+                "reference": "https://live.staticflickr.com/65535/50324288242_41b805457a_b.jpg",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://reference.pictures/wp-content/uploads/2019/03/BRADLEY_Hands-3753.jpg",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://public-files.gumroad.com/9f146l879jlyqzv5bg3el1krkqr3",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://live.staticflickr.com/65535/50302736143_108fb3d500_b.jpg",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://live.staticflickr.com/65535/50302737588_647839a0d2_b.jpg",
+                "type": "anatomy"
+            },
             {
                 "reference": "https://static.vecteezy.com/system/resources/thumbnails/005/733/983/small_2x/cute-astronaut-sitting-on-moon-with-star-cartoon-icon-illustration-science-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg",
                 "type": "cartoon"
