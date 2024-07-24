@@ -31,10 +31,6 @@
                 "type": "anatomy"
             },
             {
-                "reference": "https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Tommy_Pickles_in_Newer_Years.png/revision/latest?cb=20190607225227",
-                "type": "cartoon"
-            },
-            {
                 "reference": "https://static.wikia.nocookie.net/fairlyoddparents/images/0/0f/Stock_Image_of_A.J.-infobox.png/revision/latest?cb=20231114235750&path-prefix=en",
                 "type": "cartoon"
             },
@@ -225,16 +221,64 @@
                 "type": "cartoon"
             },
             {
-                "reference": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
-                "type": "cartoon"
-            },
-            {
                 "reference": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/02/Dragon-Ball-Perfect-Cell.jpg",
                 "type": "cartoon"
             },
             {
                 "reference": "https://truespiritanimal.com/wp-content/uploads/2023/12/cheetah-symbolism-and-meaning-fe677781.webp",
                 "type": "animal"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1525186402429-b4ff38bedec6?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1521132293557-5b908a59d1e1?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1717667742577-d804ab975e5e?q=80&w=2304&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1522054698466-40a9133c9a7f?q=80&w=3847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1597858949210-e255261302fc?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1553240799-cbad2922472c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1609766456145-f0332168845a?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": https://images.unsplash.com/photo-1643320193964-2bac93c38493?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1547128893-2eb6a8942fe4?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1623040594022-3f46dd09c260?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Tommy_Pickles_in_Newer_Years.png/revision/latest?cb=20190607225227",
+                "type": "cartoon"
             }
         ],
         "hard": [
@@ -301,6 +345,50 @@
             {
                 "reference": "https://images.unsplash.com/photo-1521566652839-697aa473761a?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1525299374597-911581e1bdef?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1512310604669-443f26c35f52?q=80&w=3868&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1541216970279-affbfdd55aa8?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1623040594029-9a93bbd889a8?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1593526613712-7b4b9a707330?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1454875392665-2ac2c85e8d3e?q=80&w=3772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?q=80&w=3532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?q=80&w=3852&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "portrait"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+                "type": "cartoon"
             }
         ]
     }
