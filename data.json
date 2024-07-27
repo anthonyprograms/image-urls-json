@@ -293,6 +293,70 @@
             {
                 "reference": "https://images.unsplash.com/photo-1429087969512-1e85aab2683d?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
                 "type": "object"
+            },
+            {
+                "reference": "https://variety.com/wp-content/uploads/2021/07/Pokemon.jpg",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/pokemon/images/9/9a/0151Mew.png/revision/latest/scale-to-width-down/2000?cb=20240715235903",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://media.cnn.com/api/v1/images/stellar/prod/210226041421-02-pokemon-anniversary-design.jpg?q=w_1110,c_fill",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://media.cnn.com/api/v1/images/stellar/prod/210226040722-01-pokemon-anniversary-design.jpg?q=w_1920,h_1080,x_0,y_0,c_fill",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/loveinterest/images/c/cb/Avatar_Last_Airbender_Book_1_Screenshot_0047.jpg/revision/latest?cb=20191115222041",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/familyguyfanon/images/c/c2/Peter_Griffin.png/revision/latest?cb=20230722214303",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/villainous-benchmark/images/8/86/BrainGriffith.webp/revision/latest?cb=20221221190503",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/disney/images/3/31/Profile_-_Joe_Gardner.png/revision/latest/scale-to-width-down/1200?cb=20210126230335",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://www.toonsmag.com/wp-content/uploads/2023/04/Jerry-mouse-cartoon-806x1024.jpg",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/cartooncharacters/images/0/08/BLOSSOM_OF_POWERPUFF_GIRLS.png/revision/latest?cb=20170411231810",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://media.cnn.com/api/v1/images/stellar/prod/210226041654-05-pokemon-anniversary-design.jpg?q=w_1920,h_1080,x_0,y_0,c_fill",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://cdn.mos.cms.futurecdn.net/DVg3vj34mtKrKQhpy6z4H-1200-80.png",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/viacom4633/images/5/50/CatDog.png/revision/latest?cb=20200321021516",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=3465&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                "type": "architecture"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1501635238895-63f29cfc06b3?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                "type": "architecture"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1611602132416-da2045990f76?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "architecture"
             }
         ],
         "medium": [
@@ -603,6 +667,34 @@
             {
                 "reference": "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=2791&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
                 "type": "object"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                "type": "object"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://live.staticflickr.com/65535/50303422731_48aa128359_c.jpg",
+                "type": "anatomy"
+            },
+            {
+                "reference": "https://images.squarespace-cdn.com/content/51b3dc8ee4b051b96ceb10de/1712938670337-RHYHZ2TFUFUIBFTCLB73/aang-the-last-airbender-animated-movie-will-follow-aang-as-an-adult-and-dave-bautista-joins-project.jpg?format=1500w&content-type=image%2Fjpeg",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/nickelodeon/images/0/00/Aang_new_render.png/revision/latest/scale-to-width-down/1200?cb=20240410065708",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwho-is-arguably-the-most-famous-cartoon-character-of-all-v0-qjcgmuts2rzb1.jpg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D8643270f37e813f0f53d76ef861db884762e21ab",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://occ-0-114-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf_vkYSzY2EsbRFAOJOS3_ZdreU4YoqzdzVZf-f1CEP9ndmI3705aHteXy3ZD7tLH4YbavoJT3lPK9luZDLgQxhQOBw1tLuBzxFG.jpg?r=b99",
+                "type": "cartoon"
             }
         ],
         "hard": [
@@ -801,6 +893,18 @@
             {
                 "reference": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
                 "type": "object"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1707992504995-c7916cb11133?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "type": "architecture"
+            },
+            {
+                "reference": "https://static.wikia.nocookie.net/characters-in-fiction/images/b/ba/Coco_Miguel_and_Dante_Promo.jpg/revision/latest?cb=20190425014208",
+                "type": "cartoon"
+            },
+            {
+                "reference": "https://images.unsplash.com/photo-1640117227173-b6970c105b1e?q=80&w=3465&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                "type": "portrait"
             }
         ]
     }
