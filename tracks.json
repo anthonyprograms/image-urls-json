@@ -4,6 +4,10 @@
 			"name": "anatomy",
 			"options": [
 				{
+					"difficulty": "stater",
+					"urls": []
+				},
+				{
 					"difficulty": "easy",
 					"urls": [
 						"https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
@@ -60,12 +64,20 @@
 						"https://images.unsplash.com/photo-1470843810958-2da815d0e041?q=80&w=3311&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
 						"https://images.unsplash.com/photo-1593526613712-7b4b9a707330?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 					]
+				},
+				{
+					"difficulty": "expert",
+					"urls": []
 				}
 			]
 		},
         	{
 			"name": "animals",
 			"options": [
+				{
+					"difficulty": "stater",
+					"urls": []
+				},
 				{
 					"difficulty": "easy",
 					"urls": [
@@ -224,12 +236,20 @@
 						"https://images.unsplash.com/photo-1516401778970-46de60f7a6d8?q=80&w=3363&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 						"https://images.unsplash.com/photo-1516636052745-e142aecffd0c?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 		                   	]                    
+				},
+				{
+					"difficulty": "expert",
+					"urls": []
 				}
 			]
 		},
         	{
 			"name": "cartoon",
 			"options": [
+				{
+					"difficulty": "stater",
+					"urls": []
+				},
 				{
 					"difficulty": "easy",
 					"urls": [
@@ -355,12 +375,20 @@
 						"https://static.wikia.nocookie.net/dragonball/images/e/e6/Goku-jr.png/revision/latest?cb=20170803001359&path-prefix=fr",
 						"https://i.pinimg.com/736x/d3/97/6b/d3976b89f7e21dd431d4a6a6dbe6183b.jpg"
 			                ]                    
+				},
+				{
+					"difficulty": "expert",
+					"urls": []
 				}
 			]
 		},
        		{
 			"name": "portrait",
 			"options": [
+				{
+					"difficulty": "stater",
+					"urls": []
+				},
 				{
 					"difficulty": "easy",
 					"urls": [
@@ -498,6 +526,10 @@
 						"https://images.unsplash.com/photo-1586057708056-6149710c46cd?q=80&w=2291&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 						"https://images.unsplash.com/photo-1681958758142-a671f311b596?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 					]
+				},
+				{
+					"difficulty": "expert",
+					"urls": []
 				}
 	            	]
 		}
