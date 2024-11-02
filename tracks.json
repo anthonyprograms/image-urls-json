@@ -5,11 +5,17 @@
             "options": [
                 {
                     "difficulty": "stater",
-                    "urls": []
+                    "urls": [
+                        "https://miro.medium.com/v2/resize:fit:1200/1*2BIDQOfBRxN8qEwYrryVKQ.jpeg",
+                        "https://i.ytimg.com/vi/V3WmrWUEIJo/maxresdefault.jpg"
+                    ]
                 },
                 {
                     "difficulty": "easy",
                     "urls": [
+                        "https://i.pinimg.com/736x/bc/80/c2/bc80c2195ce53a3c8fd6dd153c6e49d2.jpg",
+                        "https://finearttutorials.com/wp-content/uploads/2023/04/Loomis-Method-1024x768.png",
+                        "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso88.gif",                        
                         "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
                         "https://ramstudioscomics.com/wp-content/uploads/2022/05/drawing-the-torso-with-primitives-web-2.jpg",
                         "https://easydrawingguides.com/wp-content/uploads/2023/03/how-to-draw-a-cartoon-hand-featured-image-1200.png",
@@ -21,6 +27,9 @@
                 {
                     "difficulty": "medium",
                     "urls": [
+                        "https://i.pinimg.com/564x/1f/59/b6/1f59b6ca1fc8de18327050e1a4ce9cd7.jpg",
+                        "https://i.pinimg.com/564x/b9/5a/bc/b95abc71ade94c5f6dd096394ea9632d.jpg",
+                        "https://i.pinimg.com/564x/95/df/14/95df14dff70a87aa0565afb0124fdedc.jpg",
                         "https://public-files.gumroad.com/9f146l879jlyqzv5bg3el1krkqr3",
                         "https://live.staticflickr.com/65535/50302736143_108fb3d500_b.jpg",
                         "https://live.staticflickr.com/65535/50302737588_647839a0d2_b.jpg",
