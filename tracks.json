@@ -4,7 +4,7 @@
             "name": "fundamentals",
             "options": [
                 {
-                    "difficulty": "stater",
+                    "difficulty": "starter",
                     "urls": [
                         "https://miro.medium.com/v2/resize:fit:1200/1*2BIDQOfBRxN8qEwYrryVKQ.jpeg",
                         "https://i.ytimg.com/vi/V3WmrWUEIJo/maxresdefault.jpg"
@@ -15,7 +15,7 @@
                     "urls": [
                         "https://i.pinimg.com/736x/bc/80/c2/bc80c2195ce53a3c8fd6dd153c6e49d2.jpg",
                         "https://finearttutorials.com/wp-content/uploads/2023/04/Loomis-Method-1024x768.png",
-                        "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso88.gif",                        
+                        "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso88.gif",
                         "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
                         "https://ramstudioscomics.com/wp-content/uploads/2022/05/drawing-the-torso-with-primitives-web-2.jpg",
                         "https://easydrawingguides.com/wp-content/uploads/2023/03/how-to-draw-a-cartoon-hand-featured-image-1200.png",
@@ -59,7 +59,7 @@
 			"name": "anatomy",
 			"options": [
 				{
-					"difficulty": "stater",
+					"difficulty": "starter",
 					"urls": []
 				},
 				{
@@ -130,7 +130,7 @@
 			"name": "animals",
 			"options": [
 				{
-					"difficulty": "stater",
+					"difficulty": "starter",
 					"urls": []
 				},
 				{
@@ -302,7 +302,7 @@
 			"name": "cartoon",
 			"options": [
 				{
-					"difficulty": "stater",
+					"difficulty": "starter",
 					"urls": []
 				},
 				{
@@ -442,7 +442,7 @@
 			"name": "portrait",
 			"options": [
 				{
-					"difficulty": "stater",
+					"difficulty": "starter",
 					"urls": []
 				},
 				{
