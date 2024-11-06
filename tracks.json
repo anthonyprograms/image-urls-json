@@ -445,13 +445,17 @@
 			"options": [
 				{
 					"difficulty": "starter",
-					"urls": []
+                    "urls": [
+                        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hand%2C_fingers_-_back.jpg",
+                        "https://emstore.com/cdn/shop/articles/n-LIPS-628x314_900x450_6bcc4cdb-677a-490d-9aae-7c9d827a7bae_749x.jpg?v=1603390594",
+                        "https://images.unsplash.com/photo-1584630932270-fe617b089c02?q=80&w=3473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.pexels.com/photos/9486772/pexels-photo-9486772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    ]
 				},
 				{
 					"difficulty": "easy",
 					"urls": [
-                        "https://images.pexels.com/photos/9486772/pexels-photo-9486772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-                        "https://emstore.com/cdn/shop/articles/n-LIPS-628x314_900x450_6bcc4cdb-677a-490d-9aae-7c9d827a7bae_749x.jpg?v=1603390594",
+                        "https://freight.cargo.site/t/original/i/a9bd0e0cb48be028c402967dd24289afc4eff07fee61e11f414bed22d556fde1/MS_Bryant_Kobe_CloseUp.jpg",
                         "https://images.unsplash.com/photo-1447095460927-ef0827bb8d3d?q=80&w=3873&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
                         "https://images.unsplash.com/photo-1588410670460-cdab54625253?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
                         "https://images.unsplash.com/flagged/photo-1553056011-7811272649cb?q=80&w=3869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
@@ -480,6 +484,7 @@
 				{
 					"difficulty": "medium",
 					"urls": [
+                        "https://images.unsplash.com/photo-1710196598601-1aea163300c2?q=80&w=2730&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 						"https://images.unsplash.com/photo-1525186402429-b4ff38bedec6?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "https://images.unsplash.com/photo-1521132293557-5b908a59d1e1?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "https://images.unsplash.com/photo-1717667742577-d804ab975e5e?q=80&w=2304&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -548,6 +553,7 @@
                 {
 					"difficulty": "hard",
 					"urls": [
+                        "https://images.unsplash.com/photo-1593314731059-d6eb89748e65?q=80&w=3200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 						"https://i.pinimg.com/736x/29/fa/e6/29fae60e5cef25ae229705f0671bfeca.jpg",
 						"https://images.unsplash.com/photo-1716112767586-017629780775?q=80&w=3408&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                         "https://images.unsplash.com/photo-1716399030740-c1fa91aae8d3?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
