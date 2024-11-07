@@ -90,21 +90,21 @@
 					"difficulty": "medium",
 					"urls": [
 						"https://live.staticflickr.com/65535/50324288242_41b805457a_b.jpg",
-                        			"https://reference.pictures/wp-content/uploads/2019/03/BRADLEY_Hands-3753.jpg",
-			                        "https://public-files.gumroad.com/9f146l879jlyqzv5bg3el1krkqr3",
-			                        "https://live.staticflickr.com/65535/50302736143_108fb3d500_b.jpg",
-			                        "https://live.staticflickr.com/65535/50302737588_647839a0d2_b.jpg",
-			                        "https://cc-prod.scene7.com/is/image/CCProdAuthor/How-to-draw-a-skull_P3f_690x450?$pjpeg$&jpegSize=200&wid=690",
-			                        "https://easydrawingguides.com/wp-content/uploads/2024/01/how-to-draw-claws-featured-image-1200.png",
-			                        "https://images.unsplash.com/photo-1522054698466-40a9133c9a7f?q=80&w=3847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1597858949210-e255261302fc?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1553240799-cbad2922472c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1643320193964-2bac93c38493?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1547128893-2eb6a8942fe4?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1623040594022-3f46dd09c260?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			                        "https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
-			                        "https://live.staticflickr.com/65535/50303422731_48aa128359_c.jpg",
+                        "https://reference.pictures/wp-content/uploads/2019/03/BRADLEY_Hands-3753.jpg",
+                        "https://public-files.gumroad.com/9f146l879jlyqzv5bg3el1krkqr3",
+                        "https://live.staticflickr.com/65535/50302736143_108fb3d500_b.jpg",
+                        "https://live.staticflickr.com/65535/50302737588_647839a0d2_b.jpg",
+                        "https://cc-prod.scene7.com/is/image/CCProdAuthor/How-to-draw-a-skull_P3f_690x450?$pjpeg$&jpegSize=200&wid=690",
+                        "https://easydrawingguides.com/wp-content/uploads/2024/01/how-to-draw-claws-featured-image-1200.png",
+                        "https://images.unsplash.com/photo-1522054698466-40a9133c9a7f?q=80&w=3847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1597858949210-e255261302fc?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1553240799-cbad2922472c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1643320193964-2bac93c38493?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1547128893-2eb6a8942fe4?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1623040594022-3f46dd09c260?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
+                        "https://live.staticflickr.com/65535/50303422731_48aa128359_c.jpg",
 						"https://i.pinimg.com/736x/2f/2d/29/2f2d299a571e261a2e792e5413c7f768.jpg",
 						"https://i.pinimg.com/736x/d8/1c/a3/d81ca3391f632b4ac667a25be6fa891b.jpg",
 						"https://i.pinimg.com/736x/d2/28/94/d22894dc35312a224d7b6299213ab371.jpg",
@@ -132,12 +132,19 @@
 				{
 					"difficulty": "starter",
                     "urls": [
-                        "https://blog.displate.com/wp-content/uploads/2021/10/img_615ee13c0e43b.jpg"
+                        "https://blog.displate.com/wp-content/uploads/2021/10/img_615ee13c0e43b.jpg",
+                        "https://clipart-library.com/8300/2368/a-simple-bird-coloring.jpg",
+                        "https://promptsideas.b-cdn.net/prompts/7278/P2RMKr5ahlR09yQKrldK.png",
+                        "https://www.aiscribbles.com/img/variant/large-preview/10892/?v=b69c3a",
+                        "https://img.freepik.com/premium-vector/cute-dog-vector-illustration-line-art_764382-6745.jpg",
+                        "https://img.freepik.com/premium-vector/cute-simple-outline-line-art-dog-logo-isolated-white-background-design-pet-shop-store-vector_615232-2173.jpg",
+                        "https://static.vecteezy.com/system/resources/previews/022/938/540/non_2x/cute-cat-line-art-for-drawing-free-vector.jpg"
                     ]
 				},
 				{
 					"difficulty": "easy",
 					"urls": [
+                        "https://cdn.openart.ai/published/DtCSZNAdaNHPF4cNVDkT/uSzpE0qN_s1hn_1024.webp",
                         "https://easydrawingguides.com/wp-content/uploads/2022/11/how-to-draw-a-beagle-featured-image-1200.png",
                         "https://easydrawingguides.com/wp-content/uploads/2022/11/how-to-draw-a-pitbull-face-featured-image-1200.png",
                         "https://easydrawingguides.com/wp-content/uploads/2022/11/how-to-draw-a-gorilla-face-featured-image-1200.png",
@@ -423,16 +430,16 @@
 					"difficulty": "hard",
 					"urls": [
 						"https://stevivor.com/wp-content/uploads/2021/10/sora-kingdom-hearts-smash.jpg",
-			                        "https://static.wikia.nocookie.net/teamfourstar/images/6/6f/Mirai_trunks.png/revision/latest?cb=20200802144815",
-			                        "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
-			                        "https://static.wikia.nocookie.net/characters-in-fiction/images/b/ba/Coco_Miguel_and_Dante_Promo.jpg/revision/latest?cb=20190425014208",
+                        "https://static.wikia.nocookie.net/teamfourstar/images/6/6f/Mirai_trunks.png/revision/latest?cb=20200802144815",
+                        "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+                        "https://static.wikia.nocookie.net/characters-in-fiction/images/b/ba/Coco_Miguel_and_Dante_Promo.jpg/revision/latest?cb=20190425014208",
 						"https://static.wikia.nocookie.net/disney/images/e/e5/Goofy.png/revision/latest?cb=20240613055259",
 						"https://static.wikia.nocookie.net/nickelodeon/images/f/f3/Reptar-Rugrats-Slider.png/revision/latest?cb=20181125012313",
 						"https://i.pinimg.com/736x/02/1f/30/021f3080ae5a8c6b6f7b4f83d60c14b7.jpg",
 						"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddmju9h-915eafc1-bca9-4441-8d33-6f031d5d983a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRtanU5aC05MTVlYWZjMS1iY2E5LTQ0NDEtOGQzMy02ZjAzMWQ1ZDk4M2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bJSelKD0MTexs4nEWyXF004VYKofnBf1meFYuZuuzL0",
 						"https://static.wikia.nocookie.net/dragonball/images/e/e6/Goku-jr.png/revision/latest?cb=20170803001359&path-prefix=fr",
 						"https://i.pinimg.com/736x/d3/97/6b/d3976b89f7e21dd431d4a6a6dbe6183b.jpg"
-			                ]                    
+                    ]
 				},
 				{
 					"difficulty": "expert",
