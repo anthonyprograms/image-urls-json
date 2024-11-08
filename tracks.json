@@ -14,12 +14,15 @@
                         "https://i.pinimg.com/564x/15/39/33/1539331c58aee2d94f5bccf6c01f34d8.jpg",
                         "https://i.pinimg.com/736x/c8/83/be/c883bedf691ab296a5f2cf375efe25ce.jpg",
                         "https://i.pinimg.com/564x/98/6e/6f/986e6f2ec662128665c759b43aca6ec3.jpg",
-                        "https://i.pinimg.com/564x/96/1c/80/961c8051d7ad493bf8ce9239af0e974a.jpg"
+                        "https://i.pinimg.com/564x/96/1c/80/961c8051d7ad493bf8ce9239af0e974a.jpg",
+                        "https://i.pinimg.com/564x/2c/64/ad/2c64ad00689f30a6ebcdd43ff3d7fc4b.jpg",
+                        "https://i.pinimg.com/564x/89/9c/8c/899c8ce146c1d7d320e7a0009737f705.jpg"
                     ]
                 },
                 {
                     "difficulty": "easy",
                     "urls": [
+                        "https://i.pinimg.com/564x/a0/77/7f/a0777f53e46e0a5c72a4f7c86e3fb0f2.jpg",
                         "https://i.pinimg.com/736x/bc/80/c2/bc80c2195ce53a3c8fd6dd153c6e49d2.jpg",
                         "https://i.pinimg.com/564x/bf/34/a4/bf34a4bca1c1be174c63fd779069d5ec.jpg",
                         "https://i.pinimg.com/564x/f5/2e/a0/f52ea0d9ab76784ec569e1f4830db088.jpg",
@@ -65,77 +68,6 @@
                 }
             ]
         },
-		{
-			"name": "anatomy",
-			"options": [
-				{
-					"difficulty": "starter",
-                    "urls": [
-                        "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
-                        "https://ramstudioscomics.com/wp-content/uploads/2022/05/drawing-the-torso-with-primitives-web-2.jpg",
-                    ]
-				},
-				{
-					"difficulty": "easy",
-					"urls": [
-						"https://easydrawingguides.com/wp-content/uploads/2023/03/how-to-draw-a-cartoon-hand-featured-image-1200.png",
-						"https://static6.depositphotos.com/1008244/610/v/450/depositphotos_6104256-stock-illustration-woman-hand.jpg",
-						"https://images.freeimages.com/images/large-previews/555/white-hand-1238117.jpg",
-						"https://live.staticflickr.com/65535/51573720363_046a119db6_b.jpg",
-						"https://live.staticflickr.com/65535/51574165504_dde5817118_z.jpg",
-						"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Extended_arm.jpg/1200px-Extended_arm.jpg",
-						"https://emstore.com/cdn/shop/articles/n-LIPS-628x314_900x450_6bcc4cdb-677a-490d-9aae-7c9d827a7bae_749x.jpg?v=1603390594",
-						"https://i.pinimg.com/736x/be/f0/4e/bef04e593aea7e16eff56730f4abe989.jpg",
-						"https://i.pinimg.com/originals/1e/04/83/1e04836eaae1d4835b3ca7e0ecd8bfc9.jpg",
-						"https://refsee.com/images/thumb/1RagZwEPTRdR8tO_rz-RrWZoS0y4asOjK.jpg",
-						"https://i.pinimg.com/736x/06/29/e3/0629e3d09617cbf7d2f9d3c97b86615f.jpg",
-						"https://images.pexels.com/photos/9486772/pexels-photo-9486772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-						"https://live.staticflickr.com/65535/51573722068_4734925723_h.jpg",
-						"https://bardotbrush.com/wp-content/uploads/2019/07/Hand-Back-Reference-Photo.png",
-						"https://bardotbrush.com/wp-content/uploads/2019/07/Hand-Palm-Reference-Photo.png",
-						"https://media.istockphoto.com/id/97926913/photo/human-ear.jpg?s=612x612&w=0&k=20&c=5aq2jcyIYv5Ey1-WVZewOkJHmgBAn_YES16KFuXDUZA="
-					]
-				},
-				{
-					"difficulty": "medium",
-					"urls": [
-						"https://live.staticflickr.com/65535/50324288242_41b805457a_b.jpg",
-                        "https://reference.pictures/wp-content/uploads/2019/03/BRADLEY_Hands-3753.jpg",
-                        "https://public-files.gumroad.com/9f146l879jlyqzv5bg3el1krkqr3",
-                        "https://live.staticflickr.com/65535/50302736143_108fb3d500_b.jpg",
-                        "https://live.staticflickr.com/65535/50302737588_647839a0d2_b.jpg",
-                        "https://cc-prod.scene7.com/is/image/CCProdAuthor/How-to-draw-a-skull_P3f_690x450?$pjpeg$&jpegSize=200&wid=690",
-                        "https://easydrawingguides.com/wp-content/uploads/2024/01/how-to-draw-claws-featured-image-1200.png",
-                        "https://images.unsplash.com/photo-1522054698466-40a9133c9a7f?q=80&w=3847&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1597858949210-e255261302fc?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1553240799-cbad2922472c?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1643320193964-2bac93c38493?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1547128893-2eb6a8942fe4?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1623040594022-3f46dd09c260?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                        "https://images.unsplash.com/photo-1474859740426-f0db7f4f5d3e?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
-                        "https://live.staticflickr.com/65535/50303422731_48aa128359_c.jpg",
-						"https://i.pinimg.com/736x/2f/2d/29/2f2d299a571e261a2e792e5413c7f768.jpg",
-						"https://i.pinimg.com/736x/d8/1c/a3/d81ca3391f632b4ac667a25be6fa891b.jpg",
-						"https://i.pinimg.com/736x/d2/28/94/d22894dc35312a224d7b6299213ab371.jpg",
-						"https://i.pinimg.com/736x/a6/0d/4c/a60d4cd55c106e5a7531026aa9787b5d.jpg",
-						"https://images.unsplash.com/photo-1584457361626-06effef61a7c?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-			                ]                    
-				},
-                		{
-					"difficulty": "hard",
-					"urls": [
-						"https://www.color-meanings.com/wp-content/uploads/2023/02/Brown-eyes-1024x506.jpeg",
-						"https://images.unsplash.com/photo-1470843810958-2da815d0e041?q=80&w=3311&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==",
-						"https://images.unsplash.com/photo-1593526613712-7b4b9a707330?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-					]
-				},
-				{
-					"difficulty": "expert",
-					"urls": []
-				}
-			]
-		},
         {
 			"name": "animals",
 			"options": [
@@ -338,13 +270,27 @@
                         "https://i.pinimg.com/564x/19/1c/71/191c71015a5b1af507093c9281b5110b.jpg",
                         "https://i.pinimg.com/564x/2d/82/89/2d8289812a3d9dddaf5b70f2cdfca47d.jpg",
                         "https://i.pinimg.com/736x/b6/bb/d2/b6bbd2e8e4aee5f85cdb46ed4d802249.jpg",
-                        "https://i.pinimg.com/564x/24/b5/79/24b579486afd339bbdd7882ec0a74e3e.jpg"
+                        "https://i.pinimg.com/564x/24/b5/79/24b579486afd339bbdd7882ec0a74e3e.jpg",
+                        "https://i.pinimg.com/564x/b3/b6/df/b3b6df8496689584753ab64d4391faf4.jpg",
+                        "https://i.pinimg.com/564x/8a/29/f6/8a29f6263738c283267f7633a412b247.jpg",
+                        "https://i.pinimg.com/564x/13/8d/72/138d727a00531406ab49009b7f38dd36.jpg",
+                        "https://i.pinimg.com/564x/a7/52/15/a7521558af7803be3ad7726e3946bf61.jpg",
+                        "https://i.pinimg.com/564x/75/9c/ea/759cea6f3ad1f9ffcd334916825632b1.jpg",
+                        "https://i.pinimg.com/564x/30/6d/0b/306d0b28b5eb0a33cfe5559621d566b4.jpg",
+                        "https://i.pinimg.com/564x/e2/b7/00/e2b7005dea88faa8db08663744fb7ea6.jpg",
+                        "https://i.pinimg.com/564x/e9/3d/9b/e93d9b45d7628c6acfc4160701499369.jpg",
+                        "https://i.pinimg.com/564x/04/1f/26/041f26b37a51178ba19123fa906c55db.jpg",
+                        "https://i.pinimg.com/564x/0f/b1/5e/0fb15eeed1a8a392712a0d2e94d3ca2e.jpg",
+                        "https://i.pinimg.com/564x/df/b1/83/dfb183e0d53960000889b579d64b3e10.jpg",
+                        "https://i.pinimg.com/564x/39/1b/46/391b46406131848a93b9817c165cc4b0.jpg",
+                        "https://i.pinimg.com/564x/77/05/2a/77052ad7eff7289990fba3db67f1b272.jpg"
                     ]
 				},
 				{
 					"difficulty": "easy",
 					"urls": [
                         "https://i.pinimg.com/564x/2f/cc/77/2fcc77fa000f85bddb02aebacf81d4c3.jpg",
+                        "https://i.pinimg.com/564x/25/84/f3/2584f3fc50f01dbf2af04c93a0191219.jpg",
                         "https://i.pinimg.com/564x/26/87/92/268792579a47414428300625aa249f11.jpg",
                         "https://i.pinimg.com/564x/40/3e/e9/403ee9963422c7c8e9da1e545b853495.jpg",
                         "https://i.pinimg.com/564x/8c/fc/06/8cfc06bcf58443e564f4ef5a26099576.jpg",
