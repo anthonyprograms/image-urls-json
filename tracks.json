@@ -7,13 +7,22 @@
                     "difficulty": "starter",
                     "urls": [
                         "https://miro.medium.com/v2/resize:fit:1200/1*2BIDQOfBRxN8qEwYrryVKQ.jpeg",
-                        "https://i.ytimg.com/vi/V3WmrWUEIJo/maxresdefault.jpg"
+                        "https://i.ytimg.com/vi/V3WmrWUEIJo/maxresdefault.jpg",
+                        "https://i.pinimg.com/564x/9d/b9/3c/9db93c2ca1dd7d886add471a00688494.jpg",
+                        "https://i.pinimg.com/564x/0d/30/53/0d30538399f6710eabae8d136cf177df.jpg",
+                        "https://i.pinimg.com/564x/9d/b4/a1/9db4a14b4f4cf509c691e11a973a4a23.jpg",
+                        "https://i.pinimg.com/564x/15/39/33/1539331c58aee2d94f5bccf6c01f34d8.jpg",
+                        "https://i.pinimg.com/736x/c8/83/be/c883bedf691ab296a5f2cf375efe25ce.jpg",
+                        "https://i.pinimg.com/564x/98/6e/6f/986e6f2ec662128665c759b43aca6ec3.jpg",
+                        "https://i.pinimg.com/564x/96/1c/80/961c8051d7ad493bf8ce9239af0e974a.jpg"
                     ]
                 },
                 {
                     "difficulty": "easy",
                     "urls": [
                         "https://i.pinimg.com/736x/bc/80/c2/bc80c2195ce53a3c8fd6dd153c6e49d2.jpg",
+                        "https://i.pinimg.com/564x/bf/34/a4/bf34a4bca1c1be174c63fd779069d5ec.jpg",
+                        "https://i.pinimg.com/564x/f5/2e/a0/f52ea0d9ab76784ec569e1f4830db088.jpg",
                         "https://finearttutorials.com/wp-content/uploads/2023/04/Loomis-Method-1024x768.png",
                         "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso88.gif",
                         "https://www.gvaat.com/wp-content/uploads/2020/10/how_to_draw_a_female_torso93.gif",
@@ -22,6 +31,7 @@
                         "https://static6.depositphotos.com/1008244/610/v/450/depositphotos_6104256-stock-illustration-woman-hand.jpg",
                         "https://media.istockphoto.com/id/97926913/photo/human-ear.jpg?s=612x612&w=0&k=20&c=5aq2jcyIYv5Ey1-WVZewOkJHmgBAn_YES16KFuXDUZA=",
                         "https://cc-prod.scene7.com/is/image/CCProdAuthor/How-to-draw-a-skull_P3f_690x450?$pjpeg$&jpegSize=200&wid=690",
+                        "https://i.pinimg.com/564x/16/21/1c/16211c3ad6312bdc23979442b4d6964c.jpg"
                     ]
                 },
                 {
@@ -132,6 +142,7 @@
 				{
 					"difficulty": "starter",
                     "urls": [
+                        "https://i.pinimg.com/564x/c9/f4/1b/c9f41b444c6669e9eba728a91e5f894a.jpg",
                         "https://blog.displate.com/wp-content/uploads/2021/10/img_615ee13c0e43b.jpg",
                         "https://clipart-library.com/8300/2368/a-simple-bird-coloring.jpg",
                         "https://promptsideas.b-cdn.net/prompts/7278/P2RMKr5ahlR09yQKrldK.png",
