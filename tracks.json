@@ -710,15 +710,11 @@
                 },
                 {
                     "difficulty": "medium",
-                    "urls": [
-                        ""
-                    ]
+                    "urls": []
                 },
                 {
                     "difficulty": "hard",
-                    "urls": [
-                        ""
-                    ]
+                    "urls": []
                 },
                 {
                     "difficulty": "expert",
