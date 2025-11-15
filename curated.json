@@ -1,7 +1,7 @@
 {
 	"tracks": [
         {
-            "name": "fundamentals_i",
+            "name": "fundamentals",
             "urls": [
                 "https://timedsketch.com/21cc91e1-02fd-4149-9ada-007fd3e67919.jpg",
                 "https://timedsketch.com/4f7417e3-4a0f-4668-a578-268026983220.jpg",
@@ -323,7 +323,7 @@
             ]
         },
         {
-            "name": "animals_i",
+            "name": "animals",
             "urls": [
                 "https://timedsketch.com/7aeae83c-d230-4ba9-9b17-555e303b4f7c.jpg",
                 "https://timedsketch.com/ba2ae839-c447-41ae-97e1-de276382c024.jpg",
@@ -522,7 +522,7 @@
             ]
         },
         {
-            "difficulty": "cartoon_i",
+            "difficulty": "cartoon",
             "urls": [
                 "https://timedsketch.com/afa62d9a-4bec-49f9-9b0d-11fd05454975.jpg",
                 "https://timedsketch.com/e2cfb416-8d17-4a68-aacb-150fb700e987.jpg",
@@ -681,7 +681,7 @@
             ]
         },
         {
-            "name": "gestures_i",
+            "name": "gestures",
             "urls": [
                 "https://timedsketch.com/985ede5b-fe99-48ce-83ba-060b22c43892.jpg",
                 "https://timedsketch.com/92644f94-40e5-414f-b354-2f1dea86c46b.jpg",
@@ -862,7 +862,7 @@
             ]
         },
         {
-            "name": "hands_i",
+            "name": "hands",
             "urls": [
                 "https://timedsketch.com/e27b7f56-e05c-4b9b-bec8-be22fca7099d.jpg",
                 "https://timedsketch.com/a094cc27-8f29-47b7-acad-f12c8ce2009e.jpg",
@@ -1012,7 +1012,7 @@
             ]
         },
         {
-            "name": "portrait_i",
+            "name": "portrait",
             "urls": [
                 "https://timedsketch.com/d870734c-a700-44a6-a22b-d47a5f6db224.jpg",
                 "https://timedsketch.com/e91135fb-3d9c-4dbd-aee5-e233355baebb.jpg",
