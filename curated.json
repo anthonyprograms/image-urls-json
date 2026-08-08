@@ -756,7 +756,6 @@
                 "https://timedsketch.com/1708056c-63ea-4feb-9886-43c3eb18f3eb.jpg",
                 "https://timedsketch.com/f3f60b32-3ed6-4966-b4c9-ca34e5eb2af9.jpg",
                 "https://timedsketch.com/991d7cdd-2ae0-48f3-8602-61a2555d82de.jpg",
-                "https://timedsketch.com/38da013e-9a7f-4605-964e-069bfa17cc38.png",
                 "https://timedsketch.com/f892a625-f23a-474b-827d-c40ef23c32e6.jpg",
                 "https://timedsketch.com/d1c2be59-543e-4911-a0d5-648842d21180.jpg",
                 "https://timedsketch.com/f0c4b690-e699-4d6d-88d7-758744b61a3c.png",
@@ -847,6 +846,7 @@
         {
             "name": "cartoon",
             "urls": [
+                "https://timedsketch.com/38da013e-9a7f-4605-964e-069bfa17cc38.png",
                 "https://timedsketch.com/afa62d9a-4bec-49f9-9b0d-11fd05454975.jpg",
                 "https://timedsketch.com/e2cfb416-8d17-4a68-aacb-150fb700e987.jpg",
                 "https://timedsketch.com/8a30f553-4d6e-4460-9ecb-e54dff8e1695.jpg",
